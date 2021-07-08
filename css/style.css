@@ -8,7 +8,8 @@ body {
   }
   
   .jumbotron {
-    background-color: #9bd1d1;
+    /*background-color: #9bd1d1;*/
+    background-image: linear-gradient(to bottom right, rgba(159, 203, 58, 0.9),rgba(153, 146, 107, 0.8),rgba(122, 87, 162, 0.7),rgba(75, 158, 189, 0.8),rgba(228, 90, 41, 0.8));    
     color: white;
   }
   
