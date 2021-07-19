@@ -10,7 +10,15 @@ $(document).ready(function($){
   $('#top').click(function(){
     $('body,html').animate({
       scrollTop:0
-    },800);
+    },600);
+    $('#navbarNav').collapse('hide');    
+    return false;
+  });
+  $('.nav-item').click(function(){
+    $('body,html').animate({
+      scrollTop: document.querySelector(".album").offsetTop,
+    },400);
+    $('#navbarNav').collapse('hide');   
     return false;
   });
 });
