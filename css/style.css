@@ -252,3 +252,7 @@ footer>small{
     opacity: 0;
   }
 }
+
+.carousel .carousel-item {
+  height: 500px;
+}
