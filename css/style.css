@@ -167,7 +167,7 @@ footer{
 }
 
 footer>small{
-  color: rgb(153, 146, 107);
+  color: rgb(255, 255, 255);
 }
 
 @media (min-width:991px){
