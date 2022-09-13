@@ -1,5 +1,5 @@
-# mostra-pibex-2021
+# Mostra de Extensão
 
-Repositório para apresentação dos resultados do programa PIBEX/IFPE 2021
+Site da Mostra de Extensão do IFPE Campus Paulista
 
-https://mostra-pibex.github.io/mostra-pibex-2021/
+https://ifpe-paulista.github.io/mostra-extensao/
